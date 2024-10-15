@@ -1,0 +1,15 @@
+CompileFlags:
+  Add: 
+    - "-framework"
+    - "CoreVideo"
+    - "-framework"
+    - "IOKit"
+    - "-framework"
+    - "Cocoa"
+    - "-framework"
+    - "GLUT"
+    - "-framework"
+    - "OpenGL"
+    - "-Iraylib/src"
+    - "libraylib.a"
+
